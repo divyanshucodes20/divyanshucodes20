@@ -1,34 +1,64 @@
-## Hi there 👋
-# 💫 About Me:
-I am current making projects on NextJs and also learning project based AI/ML<br> 👯 I’m looking to collaborate on web development<br>🤝 I’m looking for help in AI/ML<br>📝 I regularly solve DSA problems on https://leetcode.com/u/divyanshu_patel20/<br>💬 Ask me about MERN Stack and NextJs<br>📫 How to reach me divyanshuimp20@gmail.com
+<h1 align="center">Hi 👋, I'm Divyanshu Patel</h1>
+<h3 align="center">"Empowering Innovation: Your Next Web Development Catalyst"</h3>
 
+<div>
+  <img align="right" height="200" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/divyanshu-patel-3a3b6224a/) 
+- 🌱 I’m currently learning AI/ML and working on NextJs or MERN Stack 
+- 👯 I’m looking to collaborate on **web development**
+- 🤝 I’m looking for help with **AI/ML**
+- 📝 I regularly solve DSA. Check out my profile: [LeetCode](https://leetcode.com/u/divyanshu_patel20/)
+- 💬 Ask me about **MERN Stack and NextJs**
+- 📫 How to reach me: **divyanshucodes20@gmail.com**
+</div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=divyanshucodes20 &theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=divyanshucodes20 &theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshucodes20 &theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/divyanshu-patel-3a3b6224a/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Divyanshu's LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://leetcode.com/u/divyanshu_patel20/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Divyanshu's LeetCode" height="30" width="40" />
+  </a>
+</p>
+<hr/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=divyanshucodes20 &theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<img align="center" src="https://leetcard.jacoblin.cool/divyanshu_patel20?theme=dark&font=Noto%20Sans%20Gothic&ext=heatmap" alt="LeetCode Heatmap" />
+<br><br>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<hr/>
+<h3 align="center">Languages and Tools:</h3>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="30" alt="aws logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-original.svg" height="30" alt="graphql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="30" alt="postman logo" />
+</div>
 
-<!--
-**divyanshucodes20/divyanshucodes20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr/>
+<h3 align="center">GitHub Stats:</h3>
+<div align="center">
+  <br><br>
+  <img src="https://streak-stats.demolab.com?user=divyanshucodes20&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="190" alt="streak graph" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=divyanshucodes20&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph" />
+  <br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=divyanshucodes20&area=true&hide_border=true&radius=16&theme=github-dark-dimmed" height="314" alt="activity-graph graph" />
+</div>
