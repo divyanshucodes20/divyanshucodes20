@@ -9,7 +9,7 @@
 - 🤝 I’m looking for help with **AI/ML**
 - 📝 I regularly solve DSA. Check out my profile: [LeetCode](https://leetcode.com/u/divyanshu_patel20/)
 - 💬 Ask me about **MERN Stack and NextJs**
-- 📫 How to reach me: **divyanshucodes20@gmail.com**
+- 📫 How to reach me: **divyanshuimp20@gmail.com**
 </div>
 
 <h3 align="left">Connect with me:</h3>
