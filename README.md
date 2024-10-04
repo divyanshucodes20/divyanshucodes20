@@ -4,7 +4,7 @@
 <div>
   <img align="right" height="200" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 
-- 🌱 I’m currently learning AI/ML and working on NextJs or MERN Stack 
+- 🌱 I’m currently  working on NextJs/MERN Stack 
 - 👯 I’m looking to collaborate on **web development**
 - 🤝 I’m looking for help with **AI/ML**
 - 📝 I regularly solve DSA. Check out my profile: [LeetCode](https://leetcode.com/u/divyanshu_patel20/)
