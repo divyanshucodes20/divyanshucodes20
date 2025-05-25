@@ -25,10 +25,6 @@
 
 <img align="center" src="https://leetcard.jacoblin.cool/divyanshu_patel20?theme=dark&font=Noto%20Sans%20Gothic&ext=heatmap" alt="LeetCode Heatmap" />
 <br><br>
-<h3 align="center">Profile Views:</h3>
-<p align="center">
-  <img src="https://profile-counter.glitch.me/divyanshucodes20/count.svg?" alt="Profile Counter" />
-</p>
 
 <hr/>
 <hr/>
