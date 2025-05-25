@@ -81,3 +81,7 @@
   <br><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=divyanshucodes20&area=true&hide_border=true&radius=16&theme=github-dark-dimmed" height="314" alt="activity-graph graph" />
 </div>
+<h3 align="center">Profile Views:</h3>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/TanmayChaurasia24/count.svg?" alt="Profile Counter" />
+</p>
