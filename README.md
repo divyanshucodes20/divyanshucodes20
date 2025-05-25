@@ -27,7 +27,7 @@
 <br><br>
 <h3 align="center">Profile Views:</h3>
 <p align="center">
-  <img src="https://profile-counter.glitch.me/TanmayChaurasia24/count.svg?" alt="Profile Counter" />
+  <img src="https://profile-counter.glitch.me/divyanshucodes20/count.svg?" alt="Profile Counter" />
 </p>
 
 <hr/>
