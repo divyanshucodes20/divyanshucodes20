@@ -1,14 +1,12 @@
 <h1 align="center">Hi 👋, I'm Divyanshu Patel</h1>
-<h3 align="center">"Empowering Innovation: Your Next Web Development Catalyst"</h3>
+<h3 align="center">"Founding Engineer at Panto AI"</h3>
 
 <div>
   <img align="right" height="200" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 
-- 🌱 I’m currently  working on Full Stack and LLMs, i have expertise in scalable backend development 
-- 👯 I’m looking to collaborate on **web development**
-- 🤝 I’m looking for help with **AI/ML**
-- 📝 I regularly solve DSA. Check out my profile: [LeetCode](https://leetcode.com/u/divyanshu_patel20/)
-- 💬 Ask me about **MERN Stack and NextJs**
+- 🌱 I’m currently  working on Full Stack(AI), i have expertise in scalable backend development 
+- 🤝 Checkout my latest platform: [Chronix AI](https://www.chronixai.dev)
+- 📝 Check out my profile: [LeetCode](https://leetcode.com/u/divyanshu_patel20/)
 - 📫 How to reach me: **divyanshuimp20@gmail.com**
 </div>
 
